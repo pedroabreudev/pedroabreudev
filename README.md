@@ -7,8 +7,7 @@
 Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor no ano de 2021, estou vivendo muitos desafios e novos aprendizados, atualmente estou alocado em um projeto de desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
 
 Minha Stack Atual:
-https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png
-
+<-- Em desenvolvimento -->
 
 <!---
 pedroabreudev/pedroabreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
