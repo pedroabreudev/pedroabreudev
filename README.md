@@ -24,6 +24,7 @@ Minha Stack Atual:
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescripy/typescripy-original.svg">
   <img align="right" alt="Pedro Henrique GIF" src="https://github.com/pedroabreudev/pedroabreudev/blob/main/pedroabreudev%20250x250.gif">
 </div>
   
