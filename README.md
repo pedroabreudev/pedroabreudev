@@ -5,13 +5,13 @@
  <p align='center'><i>❝ Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10 ❞</i></p>
 </div>
 
-
+<!---
 - 👋 Hi, I’m Pedro Henrique
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pedroabreu.dev@gmail.com
-
+---> 
 
 ## Sobre mim
 
