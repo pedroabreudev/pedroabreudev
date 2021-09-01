@@ -2,7 +2,8 @@
 <h2 align='center'> 
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Olá, Mundo! Eu sou o Pedro Henrique! 👋
 </h2>
- <p align='center'><i>❝ Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10 ❞</i></p>
+ <p align='center'><i>❝ Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10 ❞</i> </p>
+ <a href="https://www.linkedin.com/in/pedroabreu-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!---
@@ -47,7 +48,6 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 <div> 
 <!--- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>--->
 <!---<a href="https://www.twitch.tv/lpedrohl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>--->
-<a href="https://www.linkedin.com/in/pedroabreu-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedroabreu.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pedrohenriqueabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
