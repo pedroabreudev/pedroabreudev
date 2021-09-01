@@ -22,7 +22,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: pedroabreu.dev@gmail.com 📫
 
 
-## Olá! Eu sou o Pedro Henrique
+## GitHub Status
  <div>
   <a href="https://github.com/pedroabreudev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroabreudev&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
