@@ -53,13 +53,13 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
   
   
 <p align="center">
- <h2 align='center'> 
+ <h3 align='center'> 
  Total de Visitas no perfil :detective: <br> <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=red&label=profile+views" alt="pedroabreudev" />
  
  <p> Obrigada pela visita 😁</p>
  
- </h2>
-   <!---<img align="center" src="https://profile-counter.glitch.me/pedroabreudev/count.svg" />--->
+ </h3>
+
  </p>
 
 </p>
@@ -68,6 +68,8 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ---> 
 </div>
+
+<!---<img align="center" src="https://profile-counter.glitch.me/pedroabreudev/count.svg" />--->
 
 <!---
 pedroabreudev/pedroabreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
