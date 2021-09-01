@@ -2,7 +2,7 @@
 <h2 align='center'> 
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Olá, Mundo! Eu sou o Pedro Henrique! 👋
 </h2>
- <p align='center'><i>❝Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10❞</i></p>
+ <p align='center'><i>❝ Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10 ❞</i></p>
 </div>
 
 
@@ -16,7 +16,7 @@
 ## Sobre mim
 
 - 🐱‍💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Dias Tecnologia](https://www.diastecnologia.com.br/)
-- 👩‍💻 Recém-formada como Full Stack Web Developer pela [Labenu](https://www.labenu.com.br/) e graduanda em Gestão da Tecnologia da Informação pela [FATEC](http://www.fatecguaratingueta.edu.br/nportal/) 🎓
+- 👩‍💻 Bacharel em Sistemas de Informação pela [UFGD](http://https://www.ufgd.edu.br/) 🎓
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: juliana.cristina@hotmail.com.br
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
 
