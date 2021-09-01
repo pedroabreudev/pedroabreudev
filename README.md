@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pedroabreu.dev@gmail.com
--
+
 
 ## Sobre mim
 
@@ -20,9 +20,6 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 - 🐱‍💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Dias Tecnologia](https://www.diastecnologia.com.br/)
 - 👩‍💻 Bacharel em Sistemas de Informação pela [UFGD](https://www.ufgd.edu.br/) 🎓
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: pedroabreu.dev@gmail.com 📫
-- 
-
-
 
 
 ## Olá! Eu sou o Pedro Henrique
@@ -45,7 +42,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
   <img align="right" alt="Pedro Henrique GIF" height="200" width="200" src="https://github.com/pedroabreudev/pedroabreudev/blob/main/pedroabreudev%20250x250.gif">
 </div>
   
-##
+
 
 <div> 
 <!--- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>--->
@@ -55,6 +52,12 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
  <a href="https://instagram.com/pedrohenriqueabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <p align="center"> 
+   
+ <div align='center'>
+   
+<p> Obrigada pela visita 😁</p>
+  <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=blueviolet&label=profile+views" alt="pedroabreudev" />
+</div>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
