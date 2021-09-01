@@ -1,3 +1,11 @@
+<div align='center'>
+<h2 align='center'> 
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Olá, Mundo! Eu sou o Pedro Henrique! 👋
+</h2>
+ <p align='center'><i>❝Mas pela graça de Deus sou o que sou, e a graça que Ele me deu não ficou sem resultados; 1 Coríntios | 15.10❞</i></p>
+</div>
+
+
 - 👋 Hi, I’m Pedro Henrique
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
