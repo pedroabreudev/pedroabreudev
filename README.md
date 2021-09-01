@@ -42,7 +42,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
   <img align="right" alt="Pedro Henrique GIF" height="200" width="200" src="https://github.com/pedroabreudev/pedroabreudev/blob/main/pedroabreudev%20250x250.gif">
 </div>
   
-
+##
 
 <div> 
 <!--- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>--->
@@ -56,7 +56,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
  <div align='center'>
    
 <p> Obrigada pela visita 😁</p>
-  <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=blueviolet&label=profile+views" alt="pedroabreudev" />
+  <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=green&label=profile+views" alt="pedroabreudev" />
 </div>
 
  ## Total de Visitas no perfil :detective: <br>
