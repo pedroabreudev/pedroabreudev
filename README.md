@@ -55,7 +55,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 
  ## Total de Visitas no perfil :detective: <br>  
  <p align="center">
-   <p> Obrigada pela visita 😁</p>
+   <p align="center"> Obrigada pela visita 😁</p>
    <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=red&label=profile+views" alt="pedroabreudev" />
    <!---<img alingn="center" src="https://profile-counter.glitch.me/pedroabreudev/count.svg" />--->
  </p>
