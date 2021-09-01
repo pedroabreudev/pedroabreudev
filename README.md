@@ -15,16 +15,15 @@
 
 ## Sobre mim
 
-- 🐱‍💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Dias Tecnologia](https://www.diastecnologia.com.br/)
-- 👩‍💻 Bacharel em Sistemas de Informação pela [UFGD](http://https://www.ufgd.edu.br/) 🎓
-- 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: juliana.cristina@hotmail.com.br
-- 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
-
-
 Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor no ano de 2021, estou vivendo muitos desafios e novos aprendizados, atualmente estou alocado em um projeto de desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
 
-Minha Stack Atual:
-<-- Em desenvolvimento -->
+- 🐱‍💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Dias Tecnologia](https://www.diastecnologia.com.br/)
+- 👩‍💻 Bacharel em Sistemas de Informação pela [UFGD](https://www.ufgd.edu.br/) 🎓
+- 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: pedroabreu.dev@gmail.com 📫
+- 
+
+
+
 
 ## Olá! Eu sou o Pedro Henrique
  <div>
@@ -33,6 +32,7 @@ Minha Stack Atual:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroabreudev&layout=compact&langs_count=7&theme=white"/>
 </div>
   
+## Minha Stack Atual:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
