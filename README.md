@@ -50,12 +50,12 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 <a href="https://www.linkedin.com/in/pedroabreu-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedroabreu.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pedrohenriqueabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<p align="center">    
-
-
- ## Total de Visitas no perfil :detective: <br>  
+  
+  
+<p align="center">
  <h2 align='center'> 
- <p align="center"> Obrigada pela visita 😁</p>
+ ## Total de Visitas no perfil :detective: <br>
+ <p> Obrigada pela visita 😁</p>
  <img src="https://komarev.com/ghpvc/?username=pedroabreudev&color=red&label=profile+views" alt="pedroabreudev" />
  </h2>
    <!---<img align="center" src="https://profile-counter.glitch.me/pedroabreudev/count.svg" />--->
