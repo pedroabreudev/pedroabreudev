@@ -58,8 +58,8 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 <!--- <img src="https://img.icons8.com/color/48/000000/germany-circular.png" height="30" width="30" title="Deutsch"/>--->
-<img src="https://img.icons8.com/color/48/000000/france-circular.png" height="30" width="30" title="Français"/>
-<!--- <img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>--->
+<!--- <img src="https://img.icons8.com/color/48/000000/france-circular.png" height="30" width="30" title="Français"/>--->
+ <img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>
 <!--- <img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" height="30" width="30" title="Русский"/>--->
 </div>
   
