@@ -52,6 +52,19 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 <a href="https://instagram.com/pedrohenriqueabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
+### __LANGUAGES__
+</div>
+<div style="display: inline-block">I love learn new languages and know new cultures.<br><br>
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+<!--- <img src="https://img.icons8.com/color/48/000000/germany-circular.png" height="30" width="30" title="Deutsch"/>--->
+<img src="https://img.icons8.com/color/48/000000/france-circular.png" height="30" width="30" title="Français"/>
+<!--- <img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>--->
+<!--- <img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" height="30" width="30" title="Русский"/>--->
+</div>
+  
+##
+  
   
 <p align="center">
   <h3 align='center'> 
