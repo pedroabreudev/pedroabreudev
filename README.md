@@ -28,6 +28,7 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
   <a href="https://github.com/pedroabreudev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroabreudev&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroabreudev&layout=compact&langs_count=7&theme=white"/>
+  <img height='172' src='https://github-readme-stats.vercel.app/api/wakatime?username=pedroabreudev'/>
 </div>
   
 ## Minha Stack Atual:
