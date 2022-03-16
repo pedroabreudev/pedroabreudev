@@ -16,9 +16,9 @@
 
 ## Sobre mim
 
-Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor no ano de 2021, estou vivendo muitos desafios e novos aprendizados, atualmente estou alocado em um projeto de desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
+Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor no ano de 2021, vivendo muitos desafios e novos aprendizados, atualmente estou alocado em um projeto de desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
 
-- 💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Dias Tecnologia](https://www.diastecnologia.com.br/)
+- 💻 Atualmente aprendendo muito como Desenvolvedor Mobile na [Warren Brasil](https://warren.com.br/)
 - 👨‍💻 Bacharel em Sistemas de Informação pela [UFGD](https://www.ufgd.edu.br/) 🎓
 - 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: pedroabreu.dev@gmail.com 📫
 
